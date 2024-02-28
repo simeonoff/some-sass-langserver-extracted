@@ -1,4 +1,4 @@
-# vscode-langservers-extracted
+# Some Sass Language Server Extracted
 
 The Some Sass Language Server extracted from [Some Sass for Visual Studio Code](https://github.com/wkillerud/vscode-scss).
 

@@ -11,9 +11,11 @@ The Some Sass Language Server extracted from [Some Sass for Visual Studio Code](
 
 You can install this via `npm i -g some-sass-language-server`.
 
-After that, you can execute the language server:
+After that, you can run the language server:
 
-- `some-sass-language-server`
+```bash
+some-sass-language-server --stdio
+```
 
 # Build
 

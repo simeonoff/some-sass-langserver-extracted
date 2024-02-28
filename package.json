@@ -1,6 +1,6 @@
 {
   "name": "some-sass-language-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Extracts the language server from the \"Some Sass for Visual Studio Code\" extension.",
   "main": "index.js",
   "files": [
